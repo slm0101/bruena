@@ -1,4 +1,4 @@
-<a rel="external" href="https://map.google.ad/url?q=https://osmaniyemhaber.com/">Link 495</a>
+<div style="position:absolute; top:0; left:-9999px;"><a rel="external" href="https://map.google.ad/url?q=https://osmaniyemhaber.com/">Link 495</a>
 <a rel="external" href="https://map.google.ae/url?q=https://osmaniyemhaber.com/">Link 494</a>
 <a rel="external" href="https://map.google.com.af/url?q=https://osmaniyemhaber.com/">Link 493</a>
 <a rel="external" href="https://map.google.com.ag/url?q=https://osmaniyemhaber.com/">Link 492</a>
@@ -100,3 +100,4 @@
 <a rel="external" href="https://map.google.mw/url?q=https://osmaniyemhaber.com/">Link 396</a>
 <a rel="external" href="https://map.google.com.mx/url?q=https://osmaniyemhaber.com/">Link 395</a>
 <a rel="external" href="https://map.google.com.my/url?q=https://osmaniyemhaber.com/">Link 394</a>
+</div>
